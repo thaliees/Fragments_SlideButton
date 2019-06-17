@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragments_SlideButton</string>
+    <string name="textView_left">Fragment 1</string>
+    <string name="textView_right">Fragment 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textView_welcome">Welcome</string>
+    <string name="textView_hello">Hello world!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
